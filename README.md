@@ -16,7 +16,18 @@ status -> check to see which files are being tracked or need to be commited
 
 init -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase
 
+-------------------------------
+Git - Add file to repo
+--------------------------------
 
+-git status --->to show current directories 
+-git add .  ---->add file to repo
+-git commit m- "comment here" --->changes comment here 
+-git push origin main ---->final pushing the file to main branch 
+-git pull origin main --->fetching the file from remote directories
+
+ -----------------------------------------------
+ -----------------------------------------------
 
 
 # Navigate to your project directory
