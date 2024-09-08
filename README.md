@@ -1,4 +1,4 @@
-###############----Git Command ------############## 
+- Git Command 
 
 repo -> repository
 
